@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Parstagram.xcodeproj">
+      location = "group:/Users/knovichenko/Documents/GitHub/Parstagram/Parstagram/zzz">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
